@@ -1,11 +1,11 @@
 import mongoose, { Schema, Document } from "mongoose";
 
 // Define the schema for the instrument collection
-export interface Instrument extends Document {
+export interface Instrument {
   name: string;
-  modelNumber: string;
+  model: string;
   category: string;
-  instrumentGroup: string;
+  subCategory: string;
   price: number;
   brand: string;
   images: string[];
@@ -19,9 +19,9 @@ export interface Instrument extends Document {
 
 const instrumentSchema: Schema = new Schema({
   name: { type: String, required: true },
-  modelNumber: { type: String, required: true },
+  model: { type: String, required: true },
   category: { type: String, required: true },
-  instrumentGroup: { type: String, required: true },
+  subCategory: { type: String, required: true },
   price: { type: Number, required: true },
   brand: { type: String, required: true },
   images: { type: [String], default: [] },
