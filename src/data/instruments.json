@@ -1,0 +1,1098 @@
+[
+  {
+    "name": "Piano",
+    "model": "Alto",
+    "category": "Keyboards and Pianos",
+    "instrumentGroup": "Keyboards and Pianos",
+    "price": 2000,
+    "brand": "Yamaha",
+    "images": [
+      "https://static-01.daraz.com.bd/p/71e53de883a9ed8ac7c257b045cfc408.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/0b265566c5671fc229f8ce6cb6db64f8.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/edec3f7c45893fbf0abf8c3a0838093e.jpg_300x0q75.webp"
+    ],
+    "description": "A grand piano known for its rich sound and elegant design.",
+    "quantity": 5,
+    "keywords": ["piano", "keyboard", "grand piano"],
+    "specifications": {
+      "keyboard_type": "88-key",
+      "pedals": "3 (Soft, Sostenuto, Damper)",
+      "finish": "Polished Ebony"
+    }
+  },
+  {
+    "name": "Violin",
+    "model": "Concert",
+    "category": "String Instruments",
+    "instrumentGroup": "Violins",
+    "price": 1500,
+    "brand": "Stradivarius",
+    "images": [
+      "https://static-01.daraz.com.bd/p/12c65b0cc060d90dc0c6143bf43826d1.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/8b848106e60c2ffe23c50a78652194c2.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/22d7a806565a7b77203503ac6d2e9322.jpg_300x0q75.webp"
+    ],
+    "description": "A concert violin crafted with exquisite detail and exceptional tone.",
+    "quantity": 7,
+    "keywords": ["violin", "string instrument", "concert violin"],
+    "specifications": {
+      "size": "4/4",
+      "top_material": "Spruce",
+      "back_and_sides_material": "Maple",
+      "finish": "Hand-Varnished"
+    }
+  },
+  {
+    "name": "Drum Set",
+    "model": "Rockstar",
+    "category": "Drums and Percussion",
+    "instrumentGroup": "Drum Sets",
+    "price": 1500,
+    "brand": "Pearl",
+    "images": [
+      "https://media.guitarcenter.com/is/image/MMGS7/Dominion-Birch-6-Piece-Shell-Pack-With-Free-8-Tom-Brushed-Olive-Metallic/L94540000001000-00-264x264.jpg",
+      "https://media.guitarcenter.com/is/image/MMGS7/Hybrid-Acoustic-Electric-6-piece-Shell-Pack/483968000000000-00-264x264.jpg",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg"
+    ],
+    "description": "A complete drum set designed for rock and pop performances.",
+    "quantity": 8,
+    "keywords": ["drum set", "drums", "rockstar drum set"],
+    "specifications": {
+      "drum_pieces": "5 (Bass Drum, Snare Drum, Tom-Toms, Floor Tom)",
+      "cymbals": "3 (Hi-Hat, Crash, Ride)",
+      "finish": "Jet Black"
+    }
+  },
+  {
+    "name": "Acoustic Guitar",
+    "model": "Classic",
+    "category": "Acoustic Guitars",
+    "instrumentGroup": "Guitars",
+    "price": 800,
+    "brand": "Martin",
+    "images": [
+      "https://static-01.daraz.com.bd/p/29fd4d4552197ef00b6c49f4a1620310.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/898798f21e434819e8823aafeec624a0.jpg_300x0q75.webp",
+      "https://bd-live-21.slatic.net/kf/S5dab27d274ed458e921b4a1a24d56e29c.jpg_300x0q75.webp"
+    ],
+    "description": "A classic acoustic guitar with rich, warm tones and comfortable playability.",
+    "quantity": 10,
+    "keywords": ["acoustic guitar", "guitar", "martin guitar"],
+    "specifications": {
+      "top_material": "Solid Spruce",
+      "back_and_sides_material": "Mahogany",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Electric Guitar",
+    "model": "Stratocaster",
+    "category": "Electric Guitars",
+    "instrumentGroup": "Guitars",
+    "price": 1200,
+    "brand": "Fender",
+    "images": [
+      "https://static-01.daraz.com.bd/p/29fd4d4552197ef00b6c49f4a1620310.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/898798f21e434819e8823aafeec624a0.jpg_300x0q75.webp",
+      "https://bd-live-21.slatic.net/kf/S5dab27d274ed458e921b4a1a24d56e29c.jpg_300x0q75.webp"
+    ],
+    "description": "An iconic electric guitar known for its versatile sound and sleek design.",
+    "quantity": 6,
+    "keywords": ["electric guitar", "guitar", "stratocaster"],
+    "specifications": {
+      "pickup_configuration": "SSS (3 Single-Coil)",
+      "bridge": "Tremolo",
+      "finish": "Sunburst"
+    }
+  },
+  {
+    "name": "Bass Guitar",
+    "model": "Classic",
+    "category": "Bass Guitars",
+    "instrumentGroup": "Guitars",
+    "price": 900,
+    "brand": "Ibanez",
+    "images": [
+      "https://static-01.daraz.com.bd/p/29fd4d4552197ef00b6c49f4a1620310.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/898798f21e434819e8823aafeec624a0.jpg_300x0q75.webp",
+      "https://bd-live-21.slatic.net/kf/S5dab27d274ed458e921b4a1a24d56e29c.jpg_300x0q75.webp"
+    ],
+    "description": "An acoustic bass guitar with deep, resonant tones and comfortable playability.",
+    "quantity": 4,
+    "keywords": ["bass guitar", "acoustic bass guitar", "Ibanez bass guitar"],
+    "specifications": {
+      "top_material": "Spruce",
+      "back_and_sides_material": "Mahogany",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Keyboard",
+    "model": "Workstation",
+    "category": "Keyboards and Pianos",
+    "instrumentGroup": "Keyboards and Pianos",
+    "price": 2500,
+    "brand": "Korg",
+    "images": [
+      "https://static-01.daraz.com.bd/p/71e53de883a9ed8ac7c257b045cfc408.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/0b265566c5671fc229f8ce6cb6db64f8.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/edec3f7c45893fbf0abf8c3a0838093e.jpg_300x0q75.webp"
+    ],
+    "description": "A versatile keyboard workstation with a wide range of sounds and features.",
+    "quantity": 3,
+    "keywords": ["keyboard", "workstation keyboard", "Korg keyboard"],
+    "specifications": {
+      "keys": "88-weighted",
+      "sounds": "1000+",
+      "features": "Sequencer, Sampler, Effects",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Saxophone",
+    "model": "Alto",
+    "category": "Wind Instruments",
+    "instrumentGroup": "Woodwind Instruments",
+    "price": 1200,
+    "brand": "Yamaha",
+    "images": [
+      "https://img.freepik.com/free-photo/saxophone-green-background-top-view_169016-26275.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph",
+      "https://img.freepik.com/free-vector/set-musical-instruments_1284-47124.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph"
+    ],
+    "description": "A classic alto saxophone with a warm, expressive tone and smooth playability.",
+    "quantity": 5,
+    "keywords": ["saxophone", "alto saxophone", "Yamaha saxophone"],
+    "specifications": {
+      "key": "Eb",
+      "material": "Brass",
+      "finish": "Gold Lacquer"
+    }
+  },
+  {
+    "name": "Cello",
+    "model": "Concert",
+    "category": "String Instruments",
+    "instrumentGroup": "Cellos",
+    "price": 2500,
+    "brand": "Stradivarius",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A concert cello crafted with precision and offering rich, resonant tones.",
+    "quantity": 6,
+    "keywords": ["cello", "string instrument", "concert cello"],
+    "specifications": {
+      "size": "4/4",
+      "top_material": "Spruce",
+      "back_and_sides_material": "Maple",
+      "finish": "Hand-Varnished"
+    }
+  },
+  {
+    "name": "Flute",
+    "model": "Concert",
+    "category": "Wind Instruments",
+    "instrumentGroup": "Woodwind Instruments",
+    "price": 1000,
+    "brand": "Yamaha",
+    "images": [
+      "https://img.freepik.com/free-photo/saxophone-green-background-top-view_169016-26275.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph",
+      "https://img.freepik.com/free-vector/set-musical-instruments_1284-47124.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph"
+    ],
+    "description": "A concert flute with a clear, bright tone and precise intonation.",
+    "quantity": 9,
+    "keywords": ["flute", "concert flute", "Yamaha flute"],
+    "specifications": {
+      "key": "C",
+      "material": "Silver-plated",
+      "finish": "Silver"
+    }
+  },
+  {
+    "name": "Trumpet",
+    "model": "Professional",
+    "category": "Brass Instruments",
+    "instrumentGroup": "Brass Instruments",
+    "price": 1500,
+    "brand": "Bach",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional trumpet with a rich, vibrant sound and excellent projection.",
+    "quantity": 7,
+    "keywords": ["trumpet", "professional trumpet", "Bach trumpet"],
+    "specifications": {
+      "key": "Bb",
+      "material": "Brass",
+      "finish": "Gold Lacquer"
+    }
+  },
+  {
+    "name": "Harp",
+    "model": "Concert",
+    "category": "String Instruments",
+    "instrumentGroup": "Harp",
+    "price": 3000,
+    "brand": "Lyon & Healy",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A concert harp with a rich, resonant tone and exquisite craftsmanship.",
+    "quantity": 4,
+    "keywords": ["harp", "concert harp", "Lyon & Healy harp"],
+    "specifications": {
+      "strings": "47",
+      "material": "Maple",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Clarinet",
+    "model": "Professional",
+    "category": "Wind Instruments",
+    "instrumentGroup": "Woodwind Instruments",
+    "price": 1200,
+    "brand": "Buffet Crampon",
+    "images": [
+      "https://img.freepik.com/free-photo/saxophone-green-background-top-view_169016-26275.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph",
+      "https://img.freepik.com/free-vector/set-musical-instruments_1284-47124.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph"
+    ],
+    "description": "A professional clarinet with a warm, expressive tone and smooth playability.",
+    "quantity": 6,
+    "keywords": [
+      "clarinet",
+      "professional clarinet",
+      "Buffet Crampon clarinet"
+    ],
+    "specifications": {
+      "key": "Bb",
+      "material": "Grenadilla Wood",
+      "finish": "Glossy"
+    }
+  },
+  {
+    "name": "Accordion",
+    "model": "Professional",
+    "category": "Keyboard and Pianos",
+    "instrumentGroup": "Accordions",
+    "price": 2000,
+    "brand": "Hohner",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional accordion with a wide range of tones and excellent playability.",
+    "quantity": 5,
+    "keywords": ["accordion", "professional accordion", "Hohner accordion"],
+    "specifications": {
+      "keyboard": "41 keys",
+      "bass_buttons": "120",
+      "reeds": "4",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Trombone",
+    "model": "Professional",
+    "category": "Brass Instruments",
+    "instrumentGroup": "Brass Instruments",
+    "price": 1700,
+    "brand": "Conn",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional trombone with a rich, powerful sound and excellent response.",
+    "quantity": 7,
+    "keywords": ["trombone", "professional trombone", "Conn trombone"],
+    "specifications": {
+      "key": "Bb",
+      "material": "Brass",
+      "finish": "Gold Lacquer"
+    }
+  },
+  {
+    "name": "Mandolin",
+    "model": "Classic",
+    "category": "String Instruments",
+    "instrumentGroup": "Mandolins",
+    "price": 700,
+    "brand": "Gibson",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A classic mandolin with bright, clear tones and comfortable playability.",
+    "quantity": 8,
+    "keywords": ["mandolin", "classic mandolin", "Gibson mandolin"],
+    "specifications": {
+      "top_material": "Solid Spruce",
+      "back_and_sides_material": "Maple",
+      "finish": "Sunburst"
+    }
+  },
+  {
+    "name": "Violin Bow",
+    "model": "Professional",
+    "category": "String Accessories",
+    "instrumentGroup": "Violin Accessories",
+    "price": 300,
+    "brand": "Franz Sandner",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional violin bow with excellent balance and responsiveness.",
+    "quantity": 15,
+    "keywords": [
+      "violin bow",
+      "professional violin bow",
+      "Franz Sandner violin bow"
+    ],
+    "specifications": {
+      "material": "Brazilwood",
+      "length": "29 inches",
+      "frog": "Ebony with Parisian eye"
+    }
+  },
+  {
+    "name": "Tuba",
+    "model": "Professional",
+    "category": "Brass Instruments",
+    "instrumentGroup": "Brass Instruments",
+    "price": 2500,
+    "brand": "Miraphone",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional tuba with a warm, resonant tone and excellent projection.",
+    "quantity": 3,
+    "keywords": ["tuba", "professional tuba", "Miraphone tuba"],
+    "specifications": {
+      "key": "Bb",
+      "material": "Brass",
+      "finish": "Gold Lacquer"
+    }
+  },
+  {
+    "name": "Harmonica",
+    "model": "Professional",
+    "category": "Wind Instruments",
+    "instrumentGroup": "Harmonicas",
+    "price": 100,
+    "brand": "Hohner",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional harmonica with airtight construction and smooth response.",
+    "quantity": 20,
+    "keywords": ["harmonica", "professional harmonica", "Hohner harmonica"],
+    "specifications": {
+      "number_of_holes": "10",
+      "reeds": "20",
+      "key": "C"
+    }
+  },
+  {
+    "name": "Concertina",
+    "model": "Professional",
+    "category": "Keyboard and Pianos",
+    "instrumentGroup": "Concertinas",
+    "price": 1200,
+    "brand": "Wheatstone",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional concertina with rich, vibrant tones and excellent playability.",
+    "quantity": 4,
+    "keywords": [
+      "concertina",
+      "professional concertina",
+      "Wheatstone concertina"
+    ],
+    "specifications": {
+      "reeds": "Concertina",
+      "buttons": "46",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Oboe",
+    "model": "Professional",
+    "category": "Wind Instruments",
+    "instrumentGroup": "Woodwind Instruments",
+    "price": 1800,
+    "brand": "Buffet Crampon",
+    "images": [
+      "https://img.freepik.com/free-photo/saxophone-green-background-top-view_169016-26275.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph",
+      "https://img.freepik.com/free-vector/set-musical-instruments_1284-47124.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph"
+    ],
+    "description": "A professional oboe with a rich, expressive tone and smooth playability.",
+    "quantity": 5,
+    "keywords": ["oboe", "professional oboe", "Buffet Crampon oboe"],
+    "specifications": {
+      "key": "C",
+      "material": "Grenadilla Wood",
+      "finish": "Glossy"
+    }
+  },
+  {
+    "name": "Ukulele",
+    "model": "Concert",
+    "category": "String Instruments",
+    "instrumentGroup": "Ukuleles",
+    "price": 150,
+    "brand": "Kala",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A concert ukulele with a bright, cheerful sound and easy playability.",
+    "quantity": 12,
+    "keywords": ["ukulele", "concert ukulele", "Kala ukulele"],
+    "specifications": {
+      "size": "Concert",
+      "top_material": "Mahogany",
+      "back_and_sides_material": "Mahogany",
+      "finish": "Satin"
+    }
+  },
+  {
+    "name": "Bagpipes",
+    "model": "Professional",
+    "category": "Wind Instruments",
+    "instrumentGroup": "Bagpipes",
+    "price": 2000,
+    "brand": "McCallum",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional set of bagpipes with a rich, resonant sound and excellent craftsmanship.",
+    "quantity": 2,
+    "keywords": ["bagpipes", "professional bagpipes", "McCallum bagpipes"],
+    "specifications": {
+      "chanter": "African Blackwood",
+      "drones": "3",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Didgeridoo",
+    "model": "Professional",
+    "category": "Wind Instruments",
+    "instrumentGroup": "Didgeridoos",
+    "price": 300,
+    "brand": "Didgeridoo Breath",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional didgeridoo with a deep, resonant tone and excellent playability.",
+    "quantity": 5,
+    "keywords": [
+      "didgeridoo",
+      "professional didgeridoo",
+      "Didgeridoo Breath didgeridoo"
+    ],
+    "specifications": {
+      "material": "Eucalyptus",
+      "key": "D",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Xylophone",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Xylophones",
+    "price": 500,
+    "brand": "Adams",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional xylophone with bright, clear tones and excellent resonance.",
+    "quantity": 4,
+    "keywords": ["xylophone", "professional xylophone", "Adams xylophone"],
+    "specifications": {
+      "keys": "3 octaves",
+      "material": "Rosewood",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Kalimba",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Kalimbas",
+    "price": 100,
+    "brand": "Hugh Tracey",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional kalimba with a warm, resonant tone and excellent playability.",
+    "quantity": 10,
+    "keywords": ["kalimba", "professional kalimba", "Hugh Tracey kalimba"],
+    "specifications": {
+      "keys": "17",
+      "material": "Mahogany",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Concert Marimba",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Marimbas",
+    "price": 2000,
+    "brand": "Yamaha",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional concert marimba with warm, resonant tones and excellent projection.",
+    "quantity": 3,
+    "keywords": ["marimba", "concert marimba", "Yamaha marimba"],
+    "specifications": {
+      "keys": "5 octaves",
+      "material": "Rosewood",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Tabla",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Tablas",
+    "price": 400,
+    "brand": "Deluxe",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional set of tablas with rich, resonant tones and excellent playability.",
+    "quantity": 5,
+    "keywords": ["tabla", "professional tabla", "Deluxe tabla"],
+    "specifications": {
+      "drum": "Set of 2",
+      "material": "Sheesham Wood",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Steel Pan",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Steel Pans",
+    "price": 600,
+    "brand": "Panyard",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional steel pan with bright, resonant tones and excellent craftsmanship.",
+    "quantity": 6,
+    "keywords": ["steel pan", "professional steel pan", "Panyard steel pan"],
+    "specifications": {
+      "material": "Steel",
+      "finish": "Chrome"
+    }
+  },
+
+  {
+    "name": "Baglama",
+    "model": "Professional",
+    "category": "String Instruments",
+    "instrumentGroup": "Baglamas",
+    "price": 300,
+    "brand": "Saz",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional baglama with a rich, resonant tone and excellent playability.",
+    "quantity": 5,
+    "keywords": ["baglama", "professional baglama", "Saz baglama"],
+    "specifications": {
+      "material": "Maple",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Piano Accordion",
+    "model": "Professional",
+    "category": "Keyboard and Pianos",
+    "instrumentGroup": "Accordions",
+    "price": 2500,
+    "brand": "Titano",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional piano accordion with a wide range of tones and excellent playability.",
+    "quantity": 3,
+    "keywords": [
+      "piano accordion",
+      "professional piano accordion",
+      "Titano piano accordion"
+    ],
+    "specifications": {
+      "keyboard": "41 keys",
+      "bass_buttons": "120",
+      "reeds": "4",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Electronic Drum Set",
+    "model": "Professional",
+    "category": "Drums and Percussion",
+    "instrumentGroup": "Drum Sets",
+    "price": 2000,
+    "brand": "Roland",
+    "images": [
+      "https://media.guitarcenter.com/is/image/MMGS7/Dominion-Birch-6-Piece-Shell-Pack-With-Free-8-Tom-Brushed-Olive-Metallic/L94540000001000-00-264x264.jpg",
+      "https://media.guitarcenter.com/is/image/MMGS7/Hybrid-Acoustic-Electric-6-piece-Shell-Pack/483968000000000-00-264x264.jpg",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg"
+    ],
+    "description": "A professional electronic drum set with a wide range of sounds and features.",
+    "quantity": 4,
+    "keywords": [
+      "electronic drum set",
+      "professional electronic drum set",
+      "Roland electronic drum set"
+    ],
+    "specifications": {
+      "drum_pieces": "5 (Bass Drum, Snare Drum, Tom-Toms, Floor Tom)",
+      "cymbals": "3 (Hi-Hat, Crash, Ride)",
+      "features": "Sound Module, MIDI Connectivity",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Synthesizer",
+    "model": "Professional",
+    "category": "Keyboards and Pianos",
+    "instrumentGroup": "Keyboards and Pianos",
+    "price": 3000,
+    "brand": "Moog",
+    "images": [
+      "https://static-01.daraz.com.bd/p/71e53de883a9ed8ac7c257b045cfc408.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/0b265566c5671fc229f8ce6cb6db64f8.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/edec3f7c45893fbf0abf8c3a0838093e.jpg_300x0q75.webp"
+    ],
+    "description": "A professional synthesizer with analog sound and extensive modulation capabilities.",
+    "quantity": 2,
+    "keywords": ["synthesizer", "professional synthesizer", "Moog synthesizer"],
+    "specifications": {
+      "oscillators": "3",
+      "filters": "Low-pass, High-pass, Band-pass",
+      "effects": "Delay, Reverb, Modulation",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Grand Harp",
+    "model": "Concert",
+    "category": "String Instruments",
+    "instrumentGroup": "Harps",
+    "price": 5000,
+    "brand": "Salvi",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A grand concert harp with a majestic tone and exquisite craftsmanship.",
+    "quantity": 2,
+    "keywords": ["grand harp", "concert harp", "Salvi harp"],
+    "specifications": {
+      "strings": "47",
+      "material": "Maple",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Concert Bass Drum",
+    "model": "Professional",
+    "category": "Drums and Percussion",
+    "instrumentGroup": "Drum Sets",
+    "price": 1200,
+    "brand": "Ludwig",
+    "images": [
+      "https://media.guitarcenter.com/is/image/MMGS7/Dominion-Birch-6-Piece-Shell-Pack-With-Free-8-Tom-Brushed-Olive-Metallic/L94540000001000-00-264x264.jpg",
+      "https://media.guitarcenter.com/is/image/MMGS7/Hybrid-Acoustic-Electric-6-piece-Shell-Pack/483968000000000-00-264x264.jpg",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg"
+    ],
+    "description": "A professional concert bass drum with deep, resonant tones and excellent projection.",
+    "quantity": 3,
+    "keywords": [
+      "concert bass drum",
+      "professional bass drum",
+      "Ludwig bass drum"
+    ],
+    "specifications": {
+      "size": "36 inches",
+      "material": "Maple",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Tenor Saxophone",
+    "model": "Professional",
+    "category": "Wind Instruments",
+    "instrumentGroup": "Woodwind Instruments",
+    "price": 2000,
+    "brand": "Selmer",
+    "images": [
+      "https://img.freepik.com/free-photo/saxophone-green-background-top-view_169016-26275.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph",
+      "https://img.freepik.com/free-vector/set-musical-instruments_1284-47124.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph"
+    ],
+    "description": "A professional tenor saxophone with a warm, expressive tone and smooth playability.",
+    "quantity": 4,
+    "keywords": [
+      "tenor saxophone",
+      "professional saxophone",
+      "Selmer saxophone"
+    ],
+    "specifications": {
+      "key": "Bb",
+      "material": "Brass",
+      "finish": "Gold Lacquer"
+    }
+  },
+  {
+    "name": "Harmonium",
+    "model": "Professional",
+    "category": "Keyboard and Pianos",
+    "instrumentGroup": "Harmoniums",
+    "price": 800,
+    "brand": "Bina",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional harmonium with rich, resonant tones and excellent playability.",
+    "quantity": 4,
+    "keywords": ["harmonium", "professional harmonium", "Bina harmonium"],
+    "specifications": {
+      "keys": "3 octaves",
+      "reeds": "4",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Piccolo",
+    "model": "Professional",
+    "category": "Wind Instruments",
+    "instrumentGroup": "Woodwind Instruments",
+    "price": 800,
+    "brand": "Pearl",
+    "images": [
+      "https://img.freepik.com/free-photo/saxophone-green-background-top-view_169016-26275.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph",
+      "https://img.freepik.com/free-vector/set-musical-instruments_1284-47124.jpg?size=626&ext=jpg&ga=GA1.1.575305211.1707881810&semt=sph"
+    ],
+    "description": "A professional piccolo with a bright, clear tone and precise intonation.",
+    "quantity": 5,
+    "keywords": ["piccolo", "professional piccolo", "Pearl piccolo"],
+    "specifications": {
+      "key": "C",
+      "material": "Silver-plated",
+      "finish": "Silver"
+    }
+  },
+  {
+    "name": "Glockenspiel",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Glockenspiels",
+    "price": 400,
+    "brand": "Bergerault",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional glockenspiel with bright, clear tones and excellent resonance.",
+    "quantity": 6,
+    "keywords": [
+      "glockenspiel",
+      "professional glockenspiel",
+      "Bergerault glockenspiel"
+    ],
+    "specifications": {
+      "keys": "2 octaves",
+      "material": "Steel",
+      "finish": "Chrome"
+    }
+  },
+  {
+    "name": "Melodica",
+    "model": "Professional",
+    "category": "Wind Instruments",
+    "instrumentGroup": "Melodicas",
+    "price": 100,
+    "brand": "Hohner",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional melodica with airtight construction and smooth response.",
+    "quantity": 10,
+    "keywords": ["melodica", "professional melodica", "Hohner melodica"],
+    "specifications": {
+      "keys": "32",
+      "material": "Plastic",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Harpsichord",
+    "model": "Concert",
+    "category": "Keyboard and Pianos",
+    "instrumentGroup": "Harpsichords",
+    "price": 5000,
+    "brand": "Zuckermann",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A concert harpsichord with a rich, vibrant tone and authentic period styling.",
+    "quantity": 2,
+    "keywords": [
+      "harpsichord",
+      "concert harpsichord",
+      "Zuckermann harpsichord"
+    ],
+    "specifications": {
+      "keys": "2 keyboards",
+      "material": "Maple",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Electronic Keyboard",
+    "model": "Workstation",
+    "category": "Keyboards and Pianos",
+    "instrumentGroup": "Keyboards and Pianos",
+    "price": 1000,
+    "brand": "Casio",
+    "images": [
+      "https://static-01.daraz.com.bd/p/71e53de883a9ed8ac7c257b045cfc408.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/0b265566c5671fc229f8ce6cb6db64f8.jpg_300x0q75.webp",
+      "https://static-01.daraz.com.bd/p/edec3f7c45893fbf0abf8c3a0838093e.jpg_300x0q75.webp"
+    ],
+    "description": "A versatile electronic keyboard with a wide range of sounds and features.",
+    "quantity": 5,
+    "keywords": ["electronic keyboard", "keyboard", "Casio keyboard"],
+    "specifications": {
+      "keys": "61",
+      "sounds": "600+",
+      "features": "Sequencer, Auto-accompaniment",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Bass Drum Pedal",
+    "model": "Professional",
+    "category": "Drum Accessories",
+    "instrumentGroup": "Drum Accessories",
+    "price": 200,
+    "brand": "DW",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional bass drum pedal with smooth, responsive action.",
+    "quantity": 15,
+    "keywords": ["bass drum pedal", "professional pedal", "DW pedal"],
+    "specifications": {
+      "material": "Steel",
+      "adjustability": "Spring tension, Beater angle",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Tambourine",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Tambourines",
+    "price": 50,
+    "brand": "Rhythm Tech",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional tambourine with bright, jingling tones and excellent playability.",
+    "quantity": 20,
+    "keywords": [
+      "tambourine",
+      "professional tambourine",
+      "Rhythm Tech tambourine"
+    ],
+    "specifications": {
+      "jingles": "16 pairs",
+      "head": "Calfskin",
+      "finish": "Black"
+    }
+  },
+  {
+    "name": "Djembe",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Djembes",
+    "price": 300,
+    "brand": "Remo",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional djembe with deep, resonant tones and excellent playability.",
+    "quantity": 10,
+    "keywords": ["djembe", "professional djembe", "Remo djembe"],
+    "specifications": {
+      "material": "Mahogany",
+      "head": "Goat Skin",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Cabasa",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Cabasas",
+    "price": 30,
+    "brand": "Latin Percussion",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional cabasa with a smooth, rattling sound and comfortable grip.",
+    "quantity": 15,
+    "keywords": ["cabasa", "professional cabasa", "Latin Percussion cabasa"],
+    "specifications": {
+      "beads": "Stainless Steel",
+      "handle": "Wood",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Rainstick",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Rainsticks",
+    "price": 50,
+    "brand": "Meinl",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional rainstick with a soothing, cascading sound and natural finish.",
+    "quantity": 10,
+    "keywords": ["rainstick", "professional rainstick", "Meinl rainstick"],
+    "specifications": {
+      "length": "16 inches",
+      "material": "Bamboo",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Cajon",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Cajons",
+    "price": 150,
+    "brand": "Sela",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional cajon with deep, resonant bass tones and crisp snare sounds.",
+    "quantity": 8,
+    "keywords": ["cajon", "professional cajon", "Sela cajon"],
+    "specifications": {
+      "material": "Birch",
+      "snare": "Adjustable",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Sitar",
+    "model": "Concert",
+    "category": "String Instruments",
+    "instrumentGroup": "Sitar",
+    "price": 500,
+    "brand": "Rikhi Ram",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A concert sitar with a rich, resonant tone and intricate carving.",
+    "quantity": 5,
+    "keywords": ["sitar", "concert sitar", "Rikhi Ram sitar"],
+    "specifications": {
+      "material": "Teak",
+      "strings": "7 main, 13 sympathetic",
+      "finish": "Natural"
+    }
+  },
+  {
+    "name": "Triangle",
+    "model": "Professional",
+    "category": "Percussion Instruments",
+    "instrumentGroup": "Triangles",
+    "price": 20,
+    "brand": "Grover Pro",
+    "images": [
+      "https://static-01.daraz.com.bd/p/c0049dd7def047ec76d73ce9618d70ed.jpg_300x0q75.webp",
+      "https://media.guitarcenter.com/is/image/MMGS7/Junior-Kicker-5-Piece-Drum-Set-Metallic-Blue/L77816000004000-00-264x264.jpg",
+      "https://static-01.daraz.com.bd/p/519f20b5d7d59cf07a0747c9ddaeadc4.jpg_300x0q75.webp"
+    ],
+    "description": "A professional triangle with clear, shimmering tones and excellent sustain.",
+    "quantity": 20,
+    "keywords": ["triangle", "professional triangle", "Grover Pro triangle"],
+    "specifications": {
+      "size": "6 inches",
+      "material": "Steel",
+      "finish": "Chrome"
+    }
+  }
+]
