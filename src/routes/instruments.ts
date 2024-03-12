@@ -7,8 +7,6 @@ router.get("/", async (req: Request, res: Response) => {
   const queries = req.query;
   try {
     const instruments = await InstrumentModel.find(queries);
-    // console.log(queries);
-    // console.log(instruments.length);
     res.send({ results: instruments });
   } catch (error) {
     console.error(

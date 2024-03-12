@@ -1,10 +1,10 @@
 import cors from "cors";
 import dotenv from "dotenv";
-import express, { Request, Response } from "express";
+import express from "express";
 import mongoose from "mongoose";
 import categoriesRouter from "./routes/categories";
-import instrumentsRouter from "./routes/instruments";
 import homeRouter from "./routes/home";
+import instrumentsRouter from "./routes/instruments";
 const app = express();
 const port = 5000;
 dotenv.config();
