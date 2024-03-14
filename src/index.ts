@@ -5,13 +5,19 @@ import mongoose from "mongoose";
 import categoriesRouter from "./routes/categories";
 import homeRouter from "./routes/home";
 import instrumentsRouter from "./routes/instruments";
+import ordersRouter from "./routes/orders";
+import customersRouter from "./routes/customers";
 const app = express();
 const port = 5000;
 dotenv.config();
+
+app.use(express.json());
 app.use(cors());
 app.use("/", homeRouter);
 app.use("/categories", categoriesRouter);
 app.use("/instruments", instrumentsRouter);
+app.use("/orders", ordersRouter);
+app.use("/customers", customersRouter);
 
 mongoose
   .connect(process.env.MONGODB_URI as string)
