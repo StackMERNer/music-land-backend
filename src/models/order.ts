@@ -22,9 +22,26 @@ const Order = mongoose.model(
   new mongoose.Schema({
     customer: {
       type: new mongoose.Schema({
-        name: String,
-        phone: String,
-        email: String,
+        id: {
+          type: mongoose.Schema.Types.ObjectId,
+          required: true,
+        },
+        name: {
+          type: String,
+          required: true,
+        },
+        phone: {
+          type: String,
+          required: true,
+        },
+        email: {
+          type: String,
+          required: true,
+        },
+        address: {
+          type: String,
+          required: true,
+        },
       }),
       required: true,
     },
