@@ -8,7 +8,7 @@ import instrumentsRouter from "./routes/instruments";
 import ordersRouter from "./routes/orders";
 import customersRouter from "./routes/customers";
 const app = express();
-const port = 5000;
+const port = process.env.PORT || 5000
 dotenv.config();
 
 app.use(express.json());
