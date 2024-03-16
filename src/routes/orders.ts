@@ -9,7 +9,7 @@ router.get("/:userId", async (req: Request, res: Response) => {
   const { userId } = req.params;
   // console.log(userId);
   try {
-    const orders = await Order.find({ "customer.id": userId });
+    const orders = await Order.find({ customerId: userId });
     // console.log(orders);
     sendSuccess(res, orders);
   } catch (error) {
