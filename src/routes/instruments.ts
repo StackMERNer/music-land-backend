@@ -9,11 +9,13 @@ router.get("/", async (req: Request, res: Response) => {
   const queries = req.query;
   try {
     const instruments = await InstrumentModel.find(queries);
-    res.send({ results: instruments });
+    // res.send({ results: instruments });
+    sendSuccess(res, instruments);
   } catch (error) {
-    console.error(
-      "Error fetching instrument groups and sub categories:",
-      error
+    sendError(
+      res,
+      INTERNAL_SERVER_ERROR.statusCode,
+      INTERNAL_SERVER_ERROR.message
     );
     res.status(500).json({
       message: "Failed to fetch Instruments",
